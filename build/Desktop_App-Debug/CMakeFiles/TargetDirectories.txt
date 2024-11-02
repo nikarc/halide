@@ -1,0 +1,9 @@
+/home/nick/Halide/build/Desktop_App-Debug/CMakeFiles/Halide.dir
+/home/nick/Halide/build/Desktop_App-Debug/CMakeFiles/edit_cache.dir
+/home/nick/Halide/build/Desktop_App-Debug/CMakeFiles/rebuild_cache.dir
+/home/nick/Halide/build/Desktop_App-Debug/CMakeFiles/list_install_components.dir
+/home/nick/Halide/build/Desktop_App-Debug/CMakeFiles/install.dir
+/home/nick/Halide/build/Desktop_App-Debug/CMakeFiles/install/local.dir
+/home/nick/Halide/build/Desktop_App-Debug/CMakeFiles/install/strip.dir
+/home/nick/Halide/build/Desktop_App-Debug/CMakeFiles/Halide_autogen_timestamp_deps.dir
+/home/nick/Halide/build/Desktop_App-Debug/CMakeFiles/Halide_autogen.dir

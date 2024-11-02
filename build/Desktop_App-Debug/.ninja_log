@@ -1,0 +1,11 @@
+# ninja log v6
+1	104	1730457836699635113	Halide_autogen/timestamp	24a28de8c588b0f6
+1	104	1730457836699635113	Halide_autogen/mocs_compilation.cpp	24a28de8c588b0f6
+1	104	1730457836699635113	/home/nick/Halide/build/Desktop_App-Debug/Halide_autogen/timestamp	24a28de8c588b0f6
+1	104	1730457836699635113	/home/nick/Halide/build/Desktop_App-Debug/Halide_autogen/mocs_compilation.cpp	24a28de8c588b0f6
+106	811	1730457836706301777	CMakeFiles/Halide.dir/cameraRawImage.cpp.o	88baea93ae82a0d3
+106	871	1730457836706301777	CMakeFiles/Halide.dir/ImageView/ZoomableGraphicsView.cpp.o	6c6599032ed81c5e
+106	981	1730457836706301777	CMakeFiles/Halide.dir/main.cpp.o	e8c3ceb899f6f62e
+106	981	1730457836706301777	CMakeFiles/Halide.dir/Halide_autogen/mocs_compilation.cpp.o	6d807a681d27b12a
+106	1083	1730457836706301777	CMakeFiles/Halide.dir/halide.cpp.o	bfb86a2d91012ce
+1084	1201	1730457837686301328	Halide	c9bd3bf06b5529f4

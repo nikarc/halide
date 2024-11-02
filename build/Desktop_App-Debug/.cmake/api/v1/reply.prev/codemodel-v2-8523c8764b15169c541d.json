@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-23a96af27492a67fb84f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Halide",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Halide::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Halide-Debug-c34fcfd9334db6ee37a7.json",
+					"name" : "Halide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Halide_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Halide_autogen-Debug-b1e5a397bc3bbb749cc6.json",
+					"name" : "Halide_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Halide_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Halide_autogen_timestamp_deps-Debug-03774852633a0bc3ede2.json",
+					"name" : "Halide_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nick/Halide/build/Desktop_App-Debug",
+		"source" : "/home/nick/Halide"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

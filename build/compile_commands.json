@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/nick/Halide/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/nick/Halide/build/Halide_autogen/include -I/usr/include/libraw -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/Halide.dir/Halide_autogen/mocs_compilation.cpp.o -c /home/nick/Halide/build/Halide_autogen/mocs_compilation.cpp",
+  "file": "/home/nick/Halide/build/Halide_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Halide.dir/Halide_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/nick/Halide/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/nick/Halide/build/Halide_autogen/include -I/usr/include/libraw -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/Halide.dir/main.cpp.o -c /home/nick/Halide/main.cpp",
+  "file": "/home/nick/Halide/main.cpp",
+  "output": "CMakeFiles/Halide.dir/main.cpp.o"
+},
+{
+  "directory": "/home/nick/Halide/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/nick/Halide/build/Halide_autogen/include -I/usr/include/libraw -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/Halide.dir/halide.cpp.o -c /home/nick/Halide/halide.cpp",
+  "file": "/home/nick/Halide/halide.cpp",
+  "output": "CMakeFiles/Halide.dir/halide.cpp.o"
+},
+{
+  "directory": "/home/nick/Halide/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/nick/Halide/build/Halide_autogen/include -I/usr/include/libraw -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/Halide.dir/cameraRawImage.cpp.o -c /home/nick/Halide/cameraRawImage.cpp",
+  "file": "/home/nick/Halide/cameraRawImage.cpp",
+  "output": "CMakeFiles/Halide.dir/cameraRawImage.cpp.o"
+}
+]

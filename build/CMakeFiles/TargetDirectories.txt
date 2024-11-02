@@ -1,0 +1,9 @@
+/home/nick/Halide/build/CMakeFiles/Halide.dir
+/home/nick/Halide/build/CMakeFiles/edit_cache.dir
+/home/nick/Halide/build/CMakeFiles/rebuild_cache.dir
+/home/nick/Halide/build/CMakeFiles/list_install_components.dir
+/home/nick/Halide/build/CMakeFiles/install.dir
+/home/nick/Halide/build/CMakeFiles/install/local.dir
+/home/nick/Halide/build/CMakeFiles/install/strip.dir
+/home/nick/Halide/build/CMakeFiles/Halide_autogen_timestamp_deps.dir
+/home/nick/Halide/build/CMakeFiles/Halide_autogen.dir
